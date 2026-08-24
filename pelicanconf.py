@@ -1,9 +1,9 @@
-AUTHOR = 'Raja CSP Raman'
-SITENAME = 'RajaCSP'
-SITETITLE = 'RajaCSP'
+AUTHOR = 'Haripriya'
+SITENAME = 'HARIPRIYA'
+SITETITLE = 'HARIPRIYA'
 SITEURL = ""
 PATH = "content"
-TIMEZONE = 'America/Moncton'
+TIMEZONE = 'Asia/kolkata'
 DEFAULT_LANG = 'en'
 THEME = 'theme'
 
@@ -12,7 +12,7 @@ DISABLE_URL_HASH = True
 
 # Copyright
 COPYRIGHT_YEAR = 2026
-COPYRIGHT_NAME = 'Raja CSP Raman'
+COPYRIGHT_NAME = 'Haripriya'
 
 # Dark mode support
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
@@ -24,7 +24,7 @@ PYGMENTS_STYLE_DARK = 'native'  # Dark mode
 
 # Static files
 STATIC_PATHS = ['images']
-SITELOGO = '/images/csp.jpeg'
+SITELOGO = '/images/haripriya.png'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -38,10 +38,10 @@ DISPLAY_PAGES_ON_MENU = True
 
 # Social widget
 SOCIAL = (
-    ("github", "https://github.com/rajacsp"),
-    ("linkedin", "https://www.linkedin.com/in/raja-csp-raman/"),
+    ("github", "https://github.com/haripriyaguru"),
+    ("linkedin", "https://www.linkedin.com/in/haripriya22/"),
     ("substack", "https://articlevil.substack.com/"),
-    ("python", "https://rajacsp.github.io/mlnotes/"),
+    ("python", ""),
 )
 
 DEFAULT_PAGINATION = 10
