@@ -3,6 +3,7 @@ Date: 2026-08-26
 Category: Tokens
 Tags: GenAI, LLM, tokens, tokenization, pricing, beginner
 Slug: what-is-a-token-why-llms-charge-per-token
+status: Published
 
 ## Why This Matters
 
