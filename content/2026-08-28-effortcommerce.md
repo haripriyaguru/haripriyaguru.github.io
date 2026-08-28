@@ -3,6 +3,7 @@ Date: 2026-08-09
 Category: GenAI
 Tags: IdleAssets, marketplace, startup-idea, sharing-economy, opinion
 Slug: idleassets-turning-unused-things-into-peer-marketplace
+status: Published
 
 ## Why This Idea
 
