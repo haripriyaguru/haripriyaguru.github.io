@@ -1,5 +1,5 @@
 Title: Will Every App Eventually Have a Built-In AI Agent?
-Date: 2026-11-15
+Date: 2026-09-19
 Category: GenAI
 Tags: GenAI, AI-agents, opinion, product-trends, software
 Slug: will-every-app-eventually-have-a-built-in-ai-agent
