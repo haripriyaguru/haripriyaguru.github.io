@@ -3,6 +3,7 @@ Date: 2027-10-01
 Category: GenAI
 Tags: GenAI, LLM, AI-product, startups, opinion
 Slug: difference-between-ai-model-and-ai-product
+status: Published
 
 ## Why This Distinction Keeps Getting Blurred
 
