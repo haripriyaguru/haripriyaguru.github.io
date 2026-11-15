@@ -7,7 +7,7 @@
       "matcher": "content/.*\\.md$",
       "action": {
         "type": "command",
-        "command": "python3 -c \"\nimport sys, json, os\ntry:\n    data = json.load(sys.stdin)\nexcept Exception:\n    sys.exit(0)\nfile_path = data.get('filePath') or data.get('file') or data.get('path') or ''\nif not file_path:\n    sys.exit(0)\nif not os.path.isfile(file_path):\n    sys.exit(0)\nif os.path.getsize(file_path) == 0:\n    print(f'ERROR: {file_path} is empty - Pelican will skip this article. Add content and save again.', file=sys.stderr)\n    sys.exit(2)\n\""
+        "command": "python3 /home/haripriya/Documents/kact/haripriyaguru.github.io/.kiro/hooks/check_empty_article.py"
       }
     }
   ]
