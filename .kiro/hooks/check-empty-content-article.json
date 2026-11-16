@@ -2,8 +2,17 @@
   "version": "v1",
   "hooks": [
     {
-      "name": "Warn on Empty Content Article",
+      "name": "Warn on Empty Content Article (Save)",
       "trigger": "PostFileSave",
+      "matcher": "content/.*\\.md$",
+      "action": {
+        "type": "command",
+        "command": "python3 /home/haripriya/Documents/kact/haripriyaguru.github.io/.kiro/hooks/check_empty_article.py"
+      }
+    },
+    {
+      "name": "Warn on Empty Content Article (Create)",
+      "trigger": "PostFileCreate",
       "matcher": "content/.*\\.md$",
       "action": {
         "type": "command",
